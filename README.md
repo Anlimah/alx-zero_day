@@ -1,1 +1,1 @@
-ALX Zero Day now commited with SSH
+ALX Zero Day now commited with SSH with only push
